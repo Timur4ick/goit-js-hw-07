@@ -36,3 +36,4 @@ let lightbox = new SimpleLightbox(".gallery__link", {
   captionsData: "alt",
   captionDelay: "250",
 });
+lightbox.show();
